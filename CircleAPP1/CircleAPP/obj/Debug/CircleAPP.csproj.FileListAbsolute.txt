@@ -1,0 +1,36 @@
+c:\users\nadim\documents\visual studio 2013\Projects\CircleAPP\CircleAPP\bin\Debug\CircleAPP.exe.config
+c:\users\nadim\documents\visual studio 2013\Projects\CircleAPP\CircleAPP\bin\Debug\CircleAPP.exe
+c:\users\nadim\documents\visual studio 2013\Projects\CircleAPP\CircleAPP\bin\Debug\CircleAPP.pdb
+c:\users\nadim\documents\visual studio 2013\Projects\CircleAPP\CircleAPP\obj\Debug\CircleAPP.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2013\Projects\CircleAPP\CircleAPP\obj\Debug\CircleAPP.Form1.resources
+c:\users\nadim\documents\visual studio 2013\Projects\CircleAPP\CircleAPP\obj\Debug\CircleAPP.Properties.Resources.resources
+c:\users\nadim\documents\visual studio 2013\Projects\CircleAPP\CircleAPP\obj\Debug\CircleAPP.csproj.GenerateResource.Cache
+c:\users\nadim\documents\visual studio 2013\Projects\CircleAPP\CircleAPP\obj\Debug\CircleAPP.exe
+c:\users\nadim\documents\visual studio 2013\Projects\CircleAPP\CircleAPP\obj\Debug\CircleAPP.pdb
+C:\Users\acer\Desktop\CircleAPP\CircleAPP\bin\Debug\CircleAPP.exe.config
+C:\Users\acer\Desktop\CircleAPP\CircleAPP\obj\Debug\CircleAPP.exe
+C:\Users\acer\Desktop\CircleAPP\CircleAPP\obj\Debug\CircleAPP.pdb
+C:\Users\acer\Desktop\CircleAPP\CircleAPP\obj\Debug\CircleAPP.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\CircleAPP\CircleAPP\obj\Debug\CircleAPP.Circle1.resources
+C:\Users\acer\Desktop\CircleAPP\CircleAPP\obj\Debug\CircleAPP.Properties.Resources.resources
+C:\Users\acer\Desktop\CircleAPP\CircleAPP\obj\Debug\CircleAPP.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\CircleAPP\CircleAPP\bin\Debug\CircleAPP.exe
+C:\Users\acer\Desktop\CircleAPP\CircleAPP\bin\Debug\CircleAPP.pdb
+C:\Users\acer\Desktop\Second Part\CircleAPP1\CircleAPP\bin\Debug\CircleAPP.exe.config
+C:\Users\acer\Desktop\Second Part\CircleAPP1\CircleAPP\obj\Debug\CircleAPP.exe
+C:\Users\acer\Desktop\Second Part\CircleAPP1\CircleAPP\obj\Debug\CircleAPP.pdb
+C:\Users\acer\Desktop\Second Part\CircleAPP1\CircleAPP\bin\Debug\CircleAPP.exe
+C:\Users\acer\Desktop\Second Part\CircleAPP1\CircleAPP\bin\Debug\CircleAPP.pdb
+C:\Users\acer\Desktop\Second Part\CircleAPP1\CircleAPP\obj\Debug\CircleAPP.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Second Part\CircleAPP1\CircleAPP\obj\Debug\CircleAPP.Circle1.resources
+C:\Users\acer\Desktop\Second Part\CircleAPP1\CircleAPP\obj\Debug\CircleAPP.Properties.Resources.resources
+C:\Users\acer\Desktop\Second Part\CircleAPP1\CircleAPP\obj\Debug\CircleAPP.csproj.GenerateResource.Cache
+I:\CircleAPP1\CircleAPP\bin\Debug\CircleAPP.exe.config
+I:\CircleAPP1\CircleAPP\obj\Debug\CircleAPP.exe
+I:\CircleAPP1\CircleAPP\obj\Debug\CircleAPP.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\Constractor&getSet\1st part\CircleAPP1\CircleAPP\bin\Debug\CircleAPP.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\Constractor&getSet\1st part\CircleAPP1\CircleAPP\obj\Debug\CircleAPP.exe
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\Constractor&getSet\1st part\CircleAPP1\CircleAPP\obj\Debug\CircleAPP.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Taimoon Vai\Constractor&getSet\1st part\CircleAPP1\CircleAPP\bin\Debug\CircleAPP.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Taimoon Vai\Constractor&getSet\1st part\CircleAPP1\CircleAPP\obj\Debug\CircleAPP.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Taimoon Vai\Constractor&getSet\1st part\CircleAPP1\CircleAPP\obj\Debug\CircleAPP.pdb

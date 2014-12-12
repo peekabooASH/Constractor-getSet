@@ -1,0 +1,30 @@
+E:\OOP0149-Evening\27-Sep-2014\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+E:\OOP0149-Evening\27-Sep-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csprojResolveAssemblyReference.cache
+E:\OOP0149-Evening\27-Sep-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.EmployeeSalaryUI.resources
+E:\OOP0149-Evening\27-Sep-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.Properties.Resources.resources
+E:\OOP0149-Evening\27-Sep-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csproj.GenerateResource.Cache
+E:\OOP0149-Evening\27-Sep-2014\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe
+E:\OOP0149-Evening\27-Sep-2014\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.pdb
+E:\OOP0149-Evening\27-Sep-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+E:\OOP0149-Evening\27-Sep-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\27-Sep-2014\27-Sep-2014\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis\27-Sep-2014\27-Sep-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis\27-Sep-2014\27-Sep-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\Constractor&getSet\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\Constractor&getSet\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\Constractor&getSet\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\Constractor&getSet\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\Constractor&getSet\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\Constractor&getSet\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\Constractor&getSet\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.EmployeeSalaryUI.resources
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\Constractor&getSet\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.Properties.Resources.resources
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\Constractor&getSet\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csproj.GenerateResource.Cache
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Taimoon Vai\Constractor&getSet\1st part\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Taimoon Vai\Constractor&getSet\1st part\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Taimoon Vai\Constractor&getSet\1st part\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\Constractor&getSet\1st part\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\Constractor&getSet\1st part\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\Constractor&getSet\1st part\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb

@@ -1,0 +1,15 @@
+c:\users\nadim\documents\visual studio 2013\Projects\ResultApp\ResultApp\bin\Debug\ResultApp.exe.config
+c:\users\nadim\documents\visual studio 2013\Projects\ResultApp\ResultApp\bin\Debug\ResultApp.exe
+c:\users\nadim\documents\visual studio 2013\Projects\ResultApp\ResultApp\bin\Debug\ResultApp.pdb
+c:\users\nadim\documents\visual studio 2013\Projects\ResultApp\ResultApp\obj\Debug\ResultApp.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2013\Projects\ResultApp\ResultApp\obj\Debug\ResultApp.ResultUI.resources
+c:\users\nadim\documents\visual studio 2013\Projects\ResultApp\ResultApp\obj\Debug\ResultApp.Properties.Resources.resources
+c:\users\nadim\documents\visual studio 2013\Projects\ResultApp\ResultApp\obj\Debug\ResultApp.csproj.GenerateResource.Cache
+c:\users\nadim\documents\visual studio 2013\Projects\ResultApp\ResultApp\obj\Debug\ResultApp.exe
+c:\users\nadim\documents\visual studio 2013\Projects\ResultApp\ResultApp\obj\Debug\ResultApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\Constractor&getSet\2nd part\ResultApp\ResultApp\bin\Debug\ResultApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\Constractor&getSet\2nd part\ResultApp\ResultApp\obj\Debug\ResultApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Taimoon Vai\Constractor&getSet\2nd part\ResultApp\ResultApp\obj\Debug\ResultApp.pdb
+C:\Users\Nadim\Desktop\Basis ALL project\Constractor&getSet\2nd part\ResultApp\ResultApp\bin\Debug\ResultApp.exe.config
+C:\Users\Nadim\Desktop\Basis ALL project\Constractor&getSet\2nd part\ResultApp\ResultApp\obj\Debug\ResultApp.exe
+C:\Users\Nadim\Desktop\Basis ALL project\Constractor&getSet\2nd part\ResultApp\ResultApp\obj\Debug\ResultApp.pdb
